@@ -1,0 +1,6 @@
+{
+  "name": "PSM 3D Studio",
+  "description": "AI-Powered Text-to-3D and Image-to-3D Model Generator with Interactive 3D Inspection, PBR Materials, and GLB Export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
